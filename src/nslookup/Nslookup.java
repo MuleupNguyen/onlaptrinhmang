@@ -164,6 +164,11 @@ public class Nslookup extends javax.swing.JFrame {
 
     private void exitMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitMenuItemActionPerformed
         System.exit(0);
+        System.out.println("Test");
+        
+        
+        
+        
     }//GEN-LAST:event_exitMenuItemActionPerformed
 
     private void jButtonTraCuuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonTraCuuActionPerformed
